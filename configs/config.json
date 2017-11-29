@@ -1,14 +1,14 @@
 {
-    "about": "This static site generator helps you make a material-design themed resume website.",
+    "about": "Hello, I'm Shane Snover. I'm an embedded systems engineer from Ithaca, NY. I'm currently enrolled in my undergraduate study of Electrical Engineering at Rochester Institute of Technology.",
     "color": "#673AB7",
 	"ripple_rgb": "033, 58, 183",
     "favicon": "favicon.png",
-    "subtitle": "Static Site Generator",
-    "title": "Material Resume",
+    "subtitle": "Embedded Software Engineer",
+    "title": "Shane Snover",
 	"icons": [
 		{
 			"id": "circlegithubalt",
-			"url": "http://github.com/tylerkrupicka/material-resume"
+			"url": "http://github.com/ssnover95/"
 		}
 	]
 }
