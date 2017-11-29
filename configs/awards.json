@@ -1,10 +1,10 @@
 {
 	"awards": [
 		{
-			"title": "Little League Soccer All Star",
-			"subtitle": "2nd Place",
-			"dates": "2001",
-			"text": "Everyone got the trophy but I'm still proud."
+			"title": "High Speed SRAM Design Contest",
+			"subtitle": "1st Place",
+			"dates": "December 2016",
+			"text": "As part of Dr. Fuller's Electronics II course, students were tasked with developing a SPICE simulation of a 6T SRAM cell. The contest challenged lab teams to achieve the fastest cycle consisting of writing a 0, reading a 0, writing a 1, and reading a 1. I completed this contest with Mark Batorski."
 		}
 	]
 }
