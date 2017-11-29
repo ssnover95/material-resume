@@ -1,18 +1,14 @@
 {
 	"projects": [
 		{
-			"title": "Valleygirl",
-			"description": "A Chrome extension that discreetly clicks every Facebook like button.",
-			"text": "The best extension ever made.",
-			"uses": "Javascript, JQuery",
+			"title": "RIT Electric Vehicle Team - Embedded Software",
+			"description": "Firmware for microcontroller systems and software for Linux systems.",
+			"text": "- Designed the software architecture for co-dependent applications in an embedded Linux environment written in C++ and Python.\\nDeveloped low-level device drivers for PIC and ARM microcontrollers in C and C++.\\nWrote a build script for parsing industry standard CAN database files to generate datapacking source code in C.",
+			"uses": "ARM, PIC, C, C++, Python",
 			"buttons": [
 				{
-					"text": "GITHUB",
-					"link": "https://github.com/tylerkrupicka/valleygirl"
-				},
-				{
-					"text": "CHROME",
-					"link": "https://chrome.google.com/webstore/detail/valley-girl/aaobhafeeoijpgnohafhbpjldeoldpin"
+					"text": "EVT Bitbucket Repository",
+					"link": "https://bitbucket.org/evt/"
 				}
 			]
 		}

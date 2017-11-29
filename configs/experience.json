@@ -1,8 +1,8 @@
 {
 	"experiences": {
-			"proficient": "Eating, Breathing.",
-			"some": "Reading.",
-			"frameworks": "Does HTML count?",
-			"tools": "A series of tubes."
+			"proficient": "AVR, MSP430, ARM, C, Modern C++, Python, CAN, Linux",
+			"some": "Altera FPGAs, PIC, C#, MATLAB, Simulink, Agile Development, Unit Testing",
+			"frameworks": "Arduino, PySerial, CppUTest",
+			"tools": "Oscilloscopes, Waveform Generators, GCC, SPICE, CMake, CoolTerm"
 		}
 }

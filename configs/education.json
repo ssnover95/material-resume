@@ -1,9 +1,9 @@
 {
 	"schools": [
 		{
-			"title": "A School",
-			"subtitle": "English Major",
-			"text": "In my spare time I used this static site generator."
+			"title": "Rochester Institute of Technology",
+			"subtitle": "B.S. Electrical Engineering, 2018",
+			"text": "Attending from 08/2013 to 05/2018. My current cumulative GPA is 3.86/4.00."
 		}
 	]
 }
