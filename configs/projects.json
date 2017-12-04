@@ -3,7 +3,7 @@
 		{
 			"title": "RIT Electric Vehicle Team - Embedded Software",
 			"description": "Firmware for microcontroller systems and software for Linux systems.",
-			"text": "- Designed the software architecture for co-dependent applications in an embedded Linux environment written in C++ and Python.\\nDeveloped low-level device drivers for PIC and ARM microcontrollers in C and C++.\\nWrote a build script for parsing industry standard CAN database files to generate datapacking source code in C.",
+			"text": "&#x25CF; Designed the software architecture for co-dependent applications in an embedded Linux environment written in C++ and Python.<br>&#x25CF; Developed low-level device drivers for PIC and ARM microcontrollers in C and C++.<br>&#x25CF; Wrote a build script for parsing industry standard CAN database files to generate datapacking source code in C.",
 			"uses": "ARM, PIC, C, C++, Python",
 			"buttons": [
 				{
