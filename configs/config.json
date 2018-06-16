@@ -1,5 +1,5 @@
 {
-    "about": "Hello, I'm Shane Snover. I'm an embedded systems engineer from Ithaca, NY. I'm currently enrolled in my undergraduate study of Electrical Engineering at Rochester Institute of Technology.",
+    "about": "I am a rising master's student at RIT beginning a Computer Science degree, having just completed my bachelor's degree in Electrical Engineering. I am primarily interested in developing applications centered around embedded computing and have experience developing for microcontrollers in Assembly, C, and C++ in both bare-metal and RTOS environments in addition to development experience on embedded Linux systems in C, C++, Python, and Go.<br>I am seeking to continue to growing my skillset working on high performance software running on embedded hardware in applications like virtual reality, computer vision, and digital signal processing where new technologies are finding themselves packed onto more resource constrained hardware than ever before.",
     "color": "#226de5",
 	"ripple_rgb": "034, 186, 229",
     "favicon": "favicon.png",

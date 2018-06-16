@@ -1,8 +1,8 @@
 {
 	"experiences": {
 			"proficient": "AVR, MSP430, ARM, C, Modern C++, Python, CAN, Linux",
-			"some": "Altera FPGAs, PIC, C#, MATLAB, Simulink, Agile Development, Unit Testing",
-			"frameworks": "Arduino, PySerial, CppUTest",
-			"tools": "Oscilloscopes, Waveform Generators, GCC, SPICE, CMake, CoolTerm"
+			"some": "Altera FPGAs, Go, Bash, PIC, C#, MATLAB, Simulink, Agile Development, Unit Testing",
+			"frameworks": "Arduino, PySerial, CppUTest, QNX, ARM Mbed",
+			"tools": "Oscilloscopes, Waveform Generators, GCC, LLVM, SPICE, CMake, CoolTerm"
 		}
 }

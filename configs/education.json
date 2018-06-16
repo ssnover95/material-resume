@@ -1,9 +1,14 @@
 {
 	"schools": [
+        {
+            "title": "Rochester Institute of Technology",
+            "subtitle": "M.S. Computer Science, 2018 - Present",
+            "text": "Attending starting in August 2018. Focusing studies around embedded systems."
+        },
 		{
 			"title": "Rochester Institute of Technology",
-			"subtitle": "B.S. Electrical Engineering, 2018",
-			"text": "Attending from 08/2013 to 05/2018. My current cumulative GPA is 3.86/4.00."
+			"subtitle": "B.S. Electrical Engineering, 2013 - 2018",
+			"text": "Attended from 08/2013 to 05/2018. Graduated Magna Cum Laude."
 		}
 	]
 }

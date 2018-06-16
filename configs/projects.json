@@ -11,6 +11,22 @@
 					"link": "https://bitbucket.org/evt/"
 				}
 			]
-		}
+		},
+        {
+            "title": "Senior Design Project - Autonomous Search and Rescue",
+            "description": "Simulation of natural disaster and using computer vision to identify survivors to evacuate quickly and safely.",
+            "text": "Simulation of a forest fire scenario whereby a Raspberry Pi with a camera scanned the map and evaluated a number of paths to the survivor depending on parameters. Paths were serialized into robot commands and used to guide a robot to the survivor.",
+            "uses": "Raspberry Pi, ZigBee, Python, OpenCV, PySerial, Teensy 3.2, C++",
+            "buttons": [
+                {
+                    "text": "GitHub Repository",
+                    "link": "https://github.com/ssnover95/msd-p18542"
+                },
+                {
+                    "text": "RIT Senior Design Wiki Pages",
+                    "link": "http://edge.rit.edu/edge/P18542/public/Home"
+                }
+            ]
+        }
 	]
 }

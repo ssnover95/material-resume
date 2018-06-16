@@ -1,5 +1,11 @@
 {
 	"jobs": [
+        {
+            "title": "Lutron Electronics",
+            "position": "Embedded Software Engineering Intern",
+            "dates": "May 2018 - August 2018",
+            "text": "Developed features for the Caséta/RA2 Select Bridge team in C, C++, and Go."
+        },
 		{
 			"title": "Lutron Electronics",
 			"position": "Embedded Software Engineering Intern",
